@@ -122,13 +122,13 @@ element-text {
 element normal.normal,
 element alternate.normal {
     background-color:            @SEL;
-    text-color:                  @BG;
+    text-color:                  @BGA;
 }
 element normal.urgent,
 element alternate.urgent,
 element selected.active {
     background-color:            @SEL;
-    text-color:                  @BG;
+    text-color:                  @BGA;
 }
 element normal.active,
 element alternate.active,
